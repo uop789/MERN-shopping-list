@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/reducers/itemReducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
@@ -151,12 +150,12 @@
       <workItem from="1554605102691" duration="58946000" />
       <workItem from="1554901690829" duration="9282000" />
       <workItem from="1554926449746" duration="8294000" />
-      <workItem from="1554943901119" duration="2161000" />
+      <workItem from="1554943901119" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100099000" />
+    <option name="totallyTimeSpent" value="100343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
